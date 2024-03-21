@@ -18,7 +18,7 @@ function Sidebar() {
               src="https://media.wired.com/photos/5daa44f7182de80009f7fdab/1:1/w_1418,h_1418,c_limit/photo_space_infrared_ssc2006-02a.jpg"
             />
             <p className="text-white text-sm pl-4 plus-jakarta">
-              Milky Way
+              Intellisys
               <br />
               <p className="text-xs text-green-500">12&nbsp;members</p>
             </p>
